@@ -2,7 +2,7 @@
 -  I’m interested in web development
 -  I’m currently learning python. It's been months since I've started python now I'm trying to make a few projects before moving on to javascript and other tools.
 -  I’m currently looking to collaborate on python project
--  How to reach me 
+-  How to reach me holangkhasibe2@gamil.com
 -  Pronouns: He, Him, His
 -  Fun fact: I like to workout and to go on a run sometimes
 
