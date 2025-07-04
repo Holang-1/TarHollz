@@ -1,5 +1,5 @@
--  Hi, I’m Holang aka TarHollz
--  I’m interested in web development
+-  Hi, I’m Holang
+-  I’m interested in software development
 -  I’m currently learning python. It's been months since I've started python now I'm trying to make a few projects before moving on to javascript and other tools.
 -  I’m currently looking to collaborate on python project
 -  How to reach me holangkhasibe2@gamil.com
